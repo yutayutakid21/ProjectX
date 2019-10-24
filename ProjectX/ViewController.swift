@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         
         print("天才集団(笑)")
         print("あと、なんでGitHubのキャラクターは猫やねん？")
+        print("調べてみたら、GitHubのキャラクターの足は蛸なんや。なかなか個性的なキャラクターやね")
     }
 
 
